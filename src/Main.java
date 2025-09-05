@@ -11,6 +11,6 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i*i);
         }
-        System.out.println("Updated in master branch");
+        System.out.println("Updated code from Master branch");
     }
 }
