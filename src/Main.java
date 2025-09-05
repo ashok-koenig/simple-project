@@ -12,5 +12,6 @@ public class Main {
             System.out.println("i = " + i*i);
         }
         System.out.println("Updated code from Master branch");
+        System.out.println("Code updated from user branch");
     }
 }
